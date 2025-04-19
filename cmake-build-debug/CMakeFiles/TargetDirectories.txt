@@ -1,0 +1,3 @@
+D:/Coding Stuff/Machine Learning Using C/nn_framework/cmake-build-debug/CMakeFiles/nn.dir
+D:/Coding Stuff/Machine Learning Using C/nn_framework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding Stuff/Machine Learning Using C/nn_framework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
