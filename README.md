@@ -4,12 +4,7 @@
 
 A lightweight neural network framework implemented in C. This single-header library provides a simple way to create, train, and use neural networks with configurable architectures.
 
-Features
-Single-header library - Easy to integrate into any C project
-Matrix operations - Basic linear algebra implementation
-Configurable network architecture - Create networks with custom layer sizes
-Sigmoid activation - Built-in sigmoid activation function
-No dependencies - Pure C implementation with only standard libraries
+
 ## Features
 
 - Single-header library - Easy to integrate into any C project
